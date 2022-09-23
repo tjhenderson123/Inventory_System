@@ -10,7 +10,7 @@ import model.*;
 //Need to be able to change parts as in house or out source and save properly.
 
 /**
- * Location of JavaDocs: c482_3/javadocs
+ * 
  *
  * “FUTURE ENHANCEMENT” When opening the "Add Part" or "Modify Part" forms, it would be better if
  *      * one of the radio buttons were automatically clicked when the screen is opened.
